@@ -35,7 +35,7 @@ public class first {
 	@org.testng.annotations.BeforeSuite
 	public void BeforeSuite()
 	{
-		System.out.println("execute before suite::::");
+		System.out.println("execute before suite");
 	}
 	@org.testng.annotations.BeforeMethod
 	public void BeforeMethod()
