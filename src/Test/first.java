@@ -40,7 +40,7 @@ public class first {
 	@org.testng.annotations.BeforeMethod
 	public void BeforeMethod()
 	{
-		System.out.println("Execute before each and every method of class:");
+		System.out.println("Execute before each and every method of class......");
 	}
 	
 }
