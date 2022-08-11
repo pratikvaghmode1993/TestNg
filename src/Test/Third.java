@@ -31,4 +31,9 @@ public class Third {
 	{
 		System.out.println("MobileSignOutInCar");
 	}
+	@Test
+	public static void MobileSignOutCarLoan_()
+	{
+		System.out.println("MobileSignOutInCar");
+	}
 }
